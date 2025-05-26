@@ -6,9 +6,8 @@ To build an interactive dashboard analyzing coffee sales data across countries, 
 ---
 
 ## 📊 Dataset Used
-- **Source: Raw Dataset**
-- : <a href="https://github.com/harsha21h/Coffee-Sales-Dashboard/blob/main/coffee%20orders%20raw%20data.xlsx">Data Set used</a>
-- **Format: Cleaning Dataset**
+- **Source: Raw Dataset** <a href="https://github.com/harsha21h/Coffee-Sales-Dashboard/blob/main/coffee%20orders%20raw%20data.xlsx">Data Set used</a>
+- **Format: Cleaned Dataset**
 <a href="https://github.com/harsha21h/Coffee-Sales-Dashboard/blob/main/coffee%20Orders%20Dashboard.xlsx">View Dashboard</a>
 ---
 
